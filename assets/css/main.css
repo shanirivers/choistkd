@@ -2673,9 +2673,9 @@
 			}
 
 			.chois-logo {
-				height: 20em;
-				width: 20em;
-				position: center;
+				height: 10em;
+				width: 10em;
+				/*position: center;*/
 			}
 			
 
@@ -3296,7 +3296,7 @@
 				@media screen and (max-width: 736px) {
 
 					#header h1 a {
-						font-size: 0.8em;
+						font-size: 0.3em;
 					}
 
 				}
